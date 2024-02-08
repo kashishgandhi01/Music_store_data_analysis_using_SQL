@@ -19,5 +19,6 @@ Q4: Which city has the best customers? We would like to throw a promotional Musi
 Write a query that returns one city that has the highest sum of invoice totals. 
 Return both the city name & sum of all invoice totals.
 
+<img width="594" alt="schema_diagram" src="https://github.com/kashishgandhi01/Music_store_data_analysis_using_SQL/assets/140305063/cf194628-63c9-47a0-b6ab-10677ce14b92">
 
 
