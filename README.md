@@ -10,11 +10,13 @@ The project was executed using structured query language. The data set was impor
 <h3>Tech Stack Used</h3>
 The project has been attempted with the help of Postgresql , the most widely used database out there, and is lightweight and portable. A powerpoint presentation has been made further to showcase the project along with the output produced by the queries.
 
-<h3>The schema has been shown below</h3>
+<h3>The Entity Relationship Diagram has been shown below</h3>
 
 <img width="594" alt="schema_diagram" src="https://github.com/kashishgandhi01/Music_store_data_analysis_using_SQL/assets/140305063/858c44ef-ea3c-4289-88b9-6dcf0cdbd772">
 
-Following questions have been answered in the case study- 
+<h3>All the data files have been uploaded for reference</h3>
+
+<h3>Following questions have been answered in the case study- </h3>
 
 Q1: Who is the senior most employee based on job title?
 
